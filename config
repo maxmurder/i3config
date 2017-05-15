@@ -164,7 +164,7 @@ bar {
 		statusline #BADA55
 		separator #404040
 		# class border bg text
-		focused_workspace #OOOOOO #202020 #BADA55
+		focused_workspace #404040 #202020 #BADA55
 		inactive_workspace #202020 #000000 #BADA55
 		urgent_workspace #404040 #404040 #BADA55
 	}

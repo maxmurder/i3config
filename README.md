@@ -12,6 +12,6 @@ Custom i3wm config which makes use of raw <a href="https://github.com/maxmurder/
  1. Download:\
     `git clone https://github.com/maxmurder/i3config.git`
  2. Install Scripts:\
-    `cp config ~/i3/config && /etc/i3status.conf`
+    `cp config ~/.i3/config && /etc/i3status.conf`
  3. Restart i3wm:\
     `mod + shift + r`
