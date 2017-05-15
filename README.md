@@ -4,14 +4,14 @@ Custom i3wm config which makes use of raw <a href="https://github.com/maxmurder/
 
 ### Dependencies
 
- <a href="https://i3wm.org/">i3wm</a>
+ <a href="https://i3wm.org/">i3wm</a>\
  <a href="https://github.com/maxmurder/himawari">himawariBG</a>
 
 ### Install
 
- 1. Download:
+ 1. Download:\
     `git clone https://github.com/maxmurder/i3config.git`
- 2. Install Scripts:
+ 2. Install Scripts:\
     `cp config ~/i3/config && /etc/i3status.conf`
- 3. Restart i3wm:
+ 3. Restart i3wm:\
     `mod + shift + r`
